@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../docs/resources/challenge-logo.png">
+  <img src="challenge-logo.png">
 </p>
 <h1 align="center">Welcome to ecoCode Challenge</h1>
 
