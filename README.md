@@ -1,10 +1,9 @@
 <p align="center">
   <img src="challenge-logo.png">
 </p>
-<h1 align="center">Welcome to ecoCode Challenge</h1>
+<h1 align="center">Welcome to our 2nd Hackathon</h1>
 
-💪 Help us improve ecoCode (powered by SonarQube) by contributing to various [work-packages](work-packages.md).
-
-🏁 Start by checking the [coding tips](coding-tips.md) and our [starter pack](starter-pack.md). 
-
-💬 At every moment of the challenge, [start new discussions](https://github.com/cnumr/ecoCode/discussions/new?category=hackathon) or [join existing ones](https://github.com/cnumr/ecoCode/discussions/categories/hackathon).
+| **Spotters** 🧪                                                                                            | **Builders** ⚒️                                                                                         |
+|----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| Do you feel like a pioneer?<br>Help us to identify, discuss and assess best practices for green software. | Do you feel like a craftman?<br>Help us to implement rules detection into the SonarQube code scanner. |
+| JOIN YOUR TEAM                                                                                           | JOIN YOUR TEAM                                                                                        |
