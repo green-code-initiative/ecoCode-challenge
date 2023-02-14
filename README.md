@@ -5,6 +5,6 @@
 
 💪 Help us improve ecoCode (powered by SonarQube) by contributing to various [work-packages](work-packages.md).
 
-🏁 Start by checking the [coding tips](coding-tips.md) and our [starter pack](starter-pack.md).
+🏁 Start by checking the [coding tips](coding-tips.md) and our [starter pack](https://github.com/green-code-initiative/ecoCode-common/blob/main/doc/starter-pack.md).
 
 💬 At every moment of the challenge, [start new discussions](https://github.com/green-code-initiative/ecoCode-challenge/discussions/new?category=hackathon) or [join existing ones](https://github.com/green-code-initiative/ecoCode-challenge/discussions/categories/hackathon).
