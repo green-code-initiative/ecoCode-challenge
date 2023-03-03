@@ -6,6 +6,7 @@ Greetings to you, mobile developer.
 
 ## What's left to be done
 
+We keep the list of implemented versus non-implemented rules up to date. Take a look at the [remaining rules for the Android plugin](https://github.com/green-code-initiative/ecoCode-mobile/blob/main/android-plugin/RULES.md) or the [remaining rules for the iOS plugin](https://github.com/green-code-initiative/ecoCode-mobile/blob/main/ios-plugin/RULES.md). You don't have enough? Go and give a hand to the [spotters team](https://github.com/green-code-initiative/ecoCode-challenge/blob/main/spotters.md).
 
 ## Contribute, but in the right way
 
