@@ -1,7 +1,7 @@
 <p align="center">
   <img src="challenge-logo.png">
 </p>
-<h1 align="center">Welcome to our 2nd Hackathon</h1>
+<h1 align="center">Welcome to our 2<sup>nd</sup> Hackathon</h1>
 
 | **Spotters** 🧪                                                                                            | **Builders** ⚒️                                                                                         |
 |----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
