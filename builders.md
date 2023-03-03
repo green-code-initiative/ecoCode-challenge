@@ -1,4 +1,3 @@
-# General-purpose
+# ecoCode
 
-
-# Mobile-Specific
+# ecoCode Mobile
