@@ -140,7 +140,10 @@ Validate your PR or ask to someone who have the permissions to validate your PR.
 Once PR validated, a github workflow is automatically launched. Thus, the new implemented code is also scan with our internal Sonar to check the implemented code quality.
 Here is the SonarQube : https://sonarcloud.io/organizations/green-code-initiative/projects
 
-### Close your rule
+### I am :
+ 
+Builders : https://github.com/green-code-initiative/ecoCode-challenge/blob/main/builders.md
+Spotters : https://github.com/green-code-initiative/ecoCode-challenge/blob/main/builders.md
 
-Once your PR is validated, your rule integrates ecoCode. In https://github.com/cnumr/ecoCode/projects/1, move it from the "In Progress" column to the "Done" column.
-Well done.
+
+  
