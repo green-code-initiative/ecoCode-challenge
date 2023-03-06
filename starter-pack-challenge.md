@@ -12,7 +12,7 @@
 
 ### Requirements
 
-Method 1 - Execute script verification (present in this repository in `tool_checks` directory) :
+Method 1 - Execute script verification (present in the repository https://github.com/green-code-initiative/ecoCode-common in `tools/check_requirements/` directory) :
 
 For Mac or Unix OS : `./check_requirements.sh`
 
