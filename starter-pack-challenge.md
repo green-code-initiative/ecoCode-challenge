@@ -142,9 +142,9 @@ Here is the SonarQube : https://sonarcloud.io/organizations/green-code-initiativ
 
 ### I am :
  
-Builders : https://github.com/green-code-initiative/ecoCode-challenge/blob/main/builders.md  
+Builder : https://github.com/green-code-initiative/ecoCode-challenge/blob/main/builders.md  
 
-Spotters : https://github.com/green-code-initiative/ecoCode-challenge/blob/main/builders.md
+Spotter : https://github.com/green-code-initiative/ecoCode-challenge/blob/main/spotters.md
 
 
   
