@@ -22,4 +22,4 @@ If you want to identify new best practices for iOS or Android, you need to brows
 Don't forget to check them against the [current rules catalog](https://github.com/cnumr/best-practices-mobile).
 
 ## 💯 Evaluate ecodesign rules
-If you want to assess the relevance of a rule, you need to measure the power consumption of a program, with and without the code pattern in question. For the Android platform, you can use [PowDroid](https://gitlab.com/powdroid/powdroid-cli), a lightweight command line tool.
+If you want to assess the relevance of a rule, you need to measure the power consumption of a program, with and without the code pattern in question. For the Android platform, you can use [PowDroid](https://gitlab.com/powdroid/powdroid-cli), a lightweight command line tool.w
