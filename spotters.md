@@ -1,6 +1,9 @@
+# Are you web developer of Mobile developer ? Please follow instructions regarding to your challenge : ecoCode or ecoCode Mobile
+
+
 # ecoCode
 
-Greetings to you, Web developer.
+Greetings to you, web developer.
 
 ## 📜 Identify new ecodesign rules
 
@@ -10,6 +13,9 @@ Don't forget to check them against the [current rules catalog](https://github.co
 
 ## 💯 Evaluate ecodesign rules
 If you want to assess the relevance of a rule, you need to measure the power consumption of a program, with and without the code pattern in question. Please contact a coach to use [ETSDiff](https://github.com/davidson-consulting/ETSdiff) and try to experiment a quick test of the rule
+
+
+
 
 # ecoCode Mobile
 
