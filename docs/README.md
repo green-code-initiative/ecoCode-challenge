@@ -1,1 +1,0 @@
-directory for slides presentation
