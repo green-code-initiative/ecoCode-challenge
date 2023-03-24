@@ -16,11 +16,10 @@ Here are the files containing the up to date list of rules to implement accordin
 - [Android (Java) rules](https://github.com/green-code-initiative/ecoCode-mobile/blob/main/android-plugin/RULES.md)
 - [iOS (Swift) rules](https://github.com/green-code-initiative/ecoCode-mobile/blob/main/ios-plugin/RULES.md)
 
-
 Tasks are tracked via GitHub Kanban projects, with one task corresponding to one rule:
 
-- [Kaban for web rules](https://github.com/orgs/green-code-initiative/projects/1)
-- [Kaban for mobile rules](https://github.com/orgs/green-code-initiative/projects/4)
+- [Kanban for web rules](https://github.com/orgs/green-code-initiative/projects/1)
+- [Kanban for mobile rules](https://github.com/orgs/green-code-initiative/projects/4)
 
 You don't have enough rules? Go and give a hand to the [spotters team](spotters.md).
 
