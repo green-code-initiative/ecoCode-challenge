@@ -14,7 +14,6 @@ Please read [Common starter-pack](https://github.com/green-code-initiative/ecoCo
 
 # I am :
 
-https://github.com/cnumr/best-practices-mobile
 Builder : https://github.com/green-code-initiative/ecoCode-challenge/blob/main/builders.md  
 
 Spotter : https://github.com/green-code-initiative/ecoCode-challenge/blob/main/spotters.md
