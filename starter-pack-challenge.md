@@ -1,12 +1,12 @@
 # Stuff :school_satchel:
 
-:computer: Bring your own computer (personal or your company computer). In case of bringing your compagny, please be aware of the restrictions of your company : ne work, install, setings... in order to develop and participate to the challenge
+:computer: Bring your own computer (personal or company). If you bring your company's computer, please be aware of your company's restrictions: network, installation, settings... in order to develop and take part in the Challenge.
 
-:headphones: Bring also your accessories : Earphones, Headphones, power supply (computer and mobile), vga/hdmi adapters
+:headphones: Bring your accessories too: Earphones, headphones, power supply (computer and mobile), vga/hdmi adapter
 
-:fire: Try to start one of the two projects (https://github.com/green-code-initiative/ecoCode or https://github.com/green-code-initiative/ecoCode-mobile) in your local environment that you will bring for the challenge in order to check if everything work as expected by following the "Local development" procedure
+:fire: Try to start one of the two projects (https://github.com/green-code-initiative/ecoCode or https://github.com/green-code-initiative/ecoCode-mobile) in your local environment that you will bring to the Challenge to see if everything works as expected by following the "Local development" procedure
 
-:grey_question: If you have issues to install and prepare your environment, please create a github issue : https://github.com/green-code-initiative/ecoCode-common/issues
+:grey_question: If you have problems installing and preparing your environment, please create a github issue on https://github.com/green-code-initiative/ecoCode-common/issues
 
 # Common starter-pack
 
