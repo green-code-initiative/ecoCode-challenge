@@ -10,7 +10,7 @@
 
 # Common starter-pack
 
-Please read [Common start-pack](https://github.com/green-code-initiative/ecoCode-common/blob/main/doc/starter-pack.md)
+Please read [Common starter-pack](https://github.com/green-code-initiative/ecoCode-common/blob/main/doc/starter-pack.md)
 
 # I am :
 
