@@ -7,7 +7,7 @@ Greetings to you, web developer.
 
 ## 📜 Identify new ecodesign rules
 
-If you want to identify new best practices for iOS or Android, you need to browse the existing guides or invent new ones. Anyway, we recommend you to follow the process of this [Kanban](https://github.com/orgs/green-code-initiative/projects/1), under the supervision of a coach. The [builders team](builders.md#ecocode) will particularly benefit from the addition of detailed [observations](https://github.com/orgs/green-code-initiative/projects/4/views/2).
+If you want to identify new best practices for iOS or Android, you need to browse the existing guides or invent new ones. Anyway, we recommend you to follow the process of this [Kanban](https://github.com/orgs/green-code-initiative/projects/1), under the supervision of a coach. Populate "Candidate, Implementable, Hardly Implementable and Not Implementable" Column. The [builders team](builders.md#ecocode) will particularly benefit from the addition of detailed [observations](https://github.com/orgs/green-code-initiative/projects/4/views/2).
 
 Don't forget to check them against the [current rules catalog](https://github.com/green-code-initiative/ecoCode/blob/main/docs/rules/web-matrix.md).
 
