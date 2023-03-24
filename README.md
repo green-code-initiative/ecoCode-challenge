@@ -3,8 +3,8 @@
 </p>
 <h1 align="center">Welcome to our 2<sup>nd</sup> Hackathon</h1>
 <br/>
-Starter pack for challenge : [Starter pack](start-pack-challenge.md)
-<br/>
+Starter pack for challenge : [Starter pack](https://github.com/green-code-initiative/ecoCode-challenge/blob/main/starter-pack-challenge.md)
+<br/><br/>
 
 | **Spotters** 🧪                                                                                            | **Builders** ⚒️                                                                                         |
 |----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
