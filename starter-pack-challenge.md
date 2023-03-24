@@ -89,13 +89,11 @@ https://medium.com/android-news/gitflow-with-github-c675aa4f606a
 
 ### 115 web rules details
 
-https://collectif.greenit.fr/ecoconception-web/115-bonnes-pratiques-eco-conception_web.html
-
-If you don't understand what a rule means, take a look at the link above. Mouse over in order to have more details.
+https://github.com/cnumr/best-practices
 
 ### 40+ android/iOS rules details
 
-[https://olegoaer.perso.univ-pau.fr/android-energy-smells/](https://github.com/cnumr/best-practices-mobile)
+https://github.com/cnumr/best-practices-mobile
 
 
 # Publish your work
