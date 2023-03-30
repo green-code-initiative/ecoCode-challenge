@@ -19,7 +19,7 @@ Here are the files containing the up to date list of rules to implement accordin
 Tasks are tracked via GitHub Kanban projects, with one task corresponding to one rule:
 
 - [Kanban for web rules](https://github.com/orgs/green-code-initiative/projects/1) => Pick rules from "Implementable" column and challenge it before implementing it ! You can create an issue directly from the card by clicking on the card and "Convert to issue"
-- [Kanban for mobile rules](https://github.com/orgs/green-code-initiative/projects/4)
+- There is no Kanban for mobile rules: simply open an issue
 
 You don't have enough rules? Go and give a hand to the [spotters team](spotters.md).
 
