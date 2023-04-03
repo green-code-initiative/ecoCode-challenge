@@ -12,7 +12,7 @@ In case of difficulty or question about the installation procedure before the be
 
 Here are the files containing the up to date list of rules to implement according to the chosen programming language:
 
-- [Web rules](https://github.com/green-code-initiative/ecoCode/blob/main/docs/rules/web-matrix.md)
+- [Web rules](https://github.com/green-code-initiative/ecoCode/blob/main/RULES.md)
 - [Android (Java) rules](https://github.com/green-code-initiative/ecoCode-mobile/blob/main/android-plugin/RULES.md)
 - [iOS (Swift) rules](https://github.com/green-code-initiative/ecoCode-mobile/blob/main/ios-plugin/RULES.md)
 
