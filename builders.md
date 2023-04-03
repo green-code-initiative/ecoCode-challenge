@@ -33,5 +33,4 @@ For some languages, there are specific contribution guidelines. Follow the guide
 - Web: [JavaScript](https://github.com/green-code-initiative/ecoCode-linter/blob/main/eslint-plugin/CONTRIBUTING.md)
 - Mobile: [Android (Java)](https://github.com/green-code-initiative/ecoCode-mobile/blob/main/android-plugin/CONTRIBUTING.md) • [iOS (Swift)](https://github.com/green-code-initiative/ecoCode-mobile/blob/main/ios-plugin/CONTRIBUTING.md)
 
-
 It's time for development, good luck builder! ⚒️
