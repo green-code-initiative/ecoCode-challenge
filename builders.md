@@ -30,7 +30,7 @@ Code quality is very important in this complex project. Each plugin works differ
 
 For some languages, there are specific contribution guidelines. Follow the guides for the languages you are interested in below:
 
-- Web: [JavaScript](https://github.com/green-code-initiative/ecoCode-linter/blob/main/eslint-plugin/CONTRIBUTING.md)
-- Mobile: [Android (Java)](https://github.com/green-code-initiative/ecoCode-mobile/blob/main/android-plugin/CONTRIBUTING.md) • [iOS (Swift)](https://github.com/green-code-initiative/ecoCode-mobile/blob/main/ios-plugin/CONTRIBUTING.md)
+- Web: [JavaScript](https://github.com/green-code-initiative/ecoCode-javascript/blob/main/CONTRIBUTING.md)
+- Mobile: [Android (Java)](https://github.com/green-code-initiative/ecoCode-android/blob/main/CONTRIBUTING.md) • [iOS (Swift)](https://github.com/green-code-initiative/ecoCode-ios/blob/main/CONTRIBUTING.md)
 
 It's time for development, good luck builder! ⚒️
