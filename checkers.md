@@ -2,6 +2,10 @@
 
 Choose the "The Right Tool for the Job" in the list below.
 
+## ?? by Greenspector
+
+## ETSdiff by Davidson Consulting
+
 ## Fruggr by digital4better
 
 ## Scaphandre by Hubblo
