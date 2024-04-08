@@ -1,6 +1,6 @@
 # Hello! Welcome to the checkers team 👋
 
-Choose the "The Right Tool for the Job" in the list below.
+Choose the "The Right Tool for the Job" in the list below. The methodology you follow and the relevance of the results you obtain are an integral part of the challenge you have accepted. Good luck.
 
 ## ?? by Greenspector
 
