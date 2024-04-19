@@ -13,13 +13,8 @@ In case of difficulty or question about the installation procedure before the be
 Here are the files containing the up to date list of rules to implement according to the chosen programming language:
 
 - [Web rules](https://github.com/green-code-initiative/ecoCode/blob/main/RULES.md)
-- [Android (Java) rules](https://github.com/green-code-initiative/ecoCode-mobile/blob/main/android-plugin/RULES.md)
-- [iOS (Swift) rules](https://github.com/green-code-initiative/ecoCode-mobile/blob/main/ios-plugin/RULES.md)
-
-Tasks are tracked via GitHub Kanban projects, with one task corresponding to one rule:
-
-- [Kanban for web rules](https://github.com/orgs/green-code-initiative/projects/1) => Pick rules from "Implementable" column and challenge it before implementing it ! You can create an issue directly from the card by clicking on the card and "Convert to issue"
-- There is no Kanban for mobile rules: simply open an issue
+- [Android (Java) rules](https://github.com/green-code-initiative/ecoCode-android/blob/main/android-plugin/RULES.md)
+- [iOS (Swift) rules](https://github.com/green-code-initiative/ecoCode-ios/blob/main/RULES.md)
 
 You don't have enough rules? Go and give a hand to the [spotters team](spotters.md).
 
