@@ -14,6 +14,6 @@ Please read [Common starter-pack](https://github.com/green-code-initiative/ecoCo
 
 # I am :
 
-Builder : https://github.com/green-code-initiative/ecoCode-challenge/blob/main/builders.md  
-
-Spotter : https://github.com/green-code-initiative/ecoCode-challenge/blob/main/spotters.md
+- Builder : https://github.com/green-code-initiative/ecoCode-challenge/blob/main/builders.md  
+- Spotter : https://github.com/green-code-initiative/ecoCode-challenge/blob/main/spotters.md
+- Checkers : https://github.com/green-code-initiative/ecoCode-challenge/blob/main/checkers.md
