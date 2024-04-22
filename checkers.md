@@ -10,6 +10,8 @@ Choose the "The Right Tool for the Job" in the list below. The methodology you f
 
 [Scaphandre](https://github.com/hubblo-org/scaphandre/) monitors power and energy metrics of a server, desktop or laptop, and of each program (through PIDs and commandline of the processes) running on this machine.
 
+[See **full documentation**](https://hubblo-org.github.io/scaphandre-documentation/) for details, including [reference of metrics available](https://hubblo-org.github.io/scaphandre-documentation/references/metrics.html).
+
 ### Features
 
 - measuring on **bare metal hosts**
@@ -30,7 +32,7 @@ Choose the "The Right Tool for the Job" in the list below. The methodology you f
 
 - CPU architecture supported : only **x86** CPUs, either Intel or AMD
 - Operating Systems supported : **GNU/Linux** or **Windows** (from server 2016 to 2022, desktop 8, 10 and 11)
-- Based on RAPL (Running Average Power Limit) : only available on **CPUs built in 2011 and later**
+- Based on [RAPL (Running Average Power Limit)](https://hubblo-org.github.io/scaphandre-documentation/explanations/rapl-domains.html) : only available on **CPUs built in 2011 and later**
 
 ## [Joular Project](https://github.com/joular/) by UPPA
 
