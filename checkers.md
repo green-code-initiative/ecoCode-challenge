@@ -6,7 +6,31 @@ Choose the "The Right Tool for the Job" in the list below. The methodology you f
 
 ## Fruggr by digital4better
 
-## Scaphandre by Hubblo
+## [Scaphandre](https://github.com/hubblo-org/scaphandre/) by [Hubblo](https://hubblo.org/fr/)
+
+[Scaphandre](https://github.com/hubblo-org/scaphandre/) monitors power and energy metrics of a server, desktop or laptop, and of each program (through PIDs and commandline of the processes) running on this machine.
+
+### Features
+
+- measuring on **bare metal hosts**
+- measuring on **qemu/kvm hypervisor** to get power usage and energy consumption of each virtual machine
+- measuring and exposing power/energy metrics of a Qemu/KVM **virtual machine**, to allow manipulating those metrics in the VM as if it was a bare metal machine (relies on hypervisor features)
+- **exposing** metrics as a **prometheus (HTTP) exporter**, see an [example of a grafana + prometheus setup](https://metrics.hubblo.org)
+- sending metrics in **push mode** to a **prometheus Push Gateway**I
+- sending metrics to **riemann**
+- sending metrics to **Warp10**
+- works on **kubernetes**, as a daemonset
+- outputing power consumption metrics in a **JSON file**
+- showing basic power consumption metrics **in the terminal**
+- **packages** available for **RHEL** 8 and 9, **Debian** 11 and 12, **Windows**, and **NixOS** (community based)
+- gets hosts's power from **RAPL PSYS** domain (full SoC / motherboard + attached components power) when available, or RAPL DPKG and DRAM (limited coverage : power consumed by CPU, memory and integrated graphic chipset)
+- once in a timeseries database, metrics are easily searchable thanks to **labels**
+
+### Requirements
+
+- CPU architecture supported : only **x86** CPUs, either Intel or AMD
+- Operating Systems supported : **GNU/Linux** or **Windows** (from server 2016 to 2022, desktop 8, 10 and 11)
+- Based on RAPL (Running Average Power Limit) : only available on **CPUs built in 2011 and later**
 
 ## [Joular Project](https://github.com/joular/) by UPPA
 
