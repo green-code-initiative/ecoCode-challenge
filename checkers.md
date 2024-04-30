@@ -2,7 +2,19 @@
 
 Choose the "The Right Tool for the Job" in the list below. The methodology you follow and the relevance of the results you obtain are an integral part of the challenge you have accepted. Good luck.
 
-## ETSdiff by Davidson Consulting
+## [vJoule](https://github.com/davidson-consulting/vjoule) & ETSdiff by [Davidson Consulting](https://www.davidson.fr/)
+
+### [vJoule](https://github.com/davidson-consulting/vjoule)
+
+A tool to estimate the energy consumption of processes running on your computer, based on hardware measurements.
+
+- vjoule exec - used to estimate the energy consumption of a given command
+- vjoule profile - used to create a profile of the energy consumption of your computer
+- vjoule top - used to visualize the energy consumption of your computer and the cgroups monitored by vjoule service
+
+[See **full documentation**](https://davidson-consulting.github.io/vjoule/v1.0/)
+
+*Works on **Linux** on PC/servers (x86/64)*
 
 ## Fruggr by digital4better
 
