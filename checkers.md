@@ -2,7 +2,7 @@
 
 Choose the "The Right Tool for the Job" in the list below. The methodology you follow and the relevance of the results you obtain are an integral part of the challenge you have accepted. Good luck.
 
-## [vJoule](https://github.com/davidson-consulting/vjoule) & ETSdiff by [Davidson Consulting](https://www.davidson.fr/)
+## [vJoule](https://github.com/davidson-consulting/vjoule) & [ETSdiff](https://github.com/davidson-consulting/ETSdiff) by [Davidson Consulting](https://www.davidson.fr/)
 
 ### [vJoule](https://github.com/davidson-consulting/vjoule)
 
@@ -13,6 +13,18 @@ A tool to estimate the energy consumption of processes running on your computer,
 - vjoule top - used to visualize the energy consumption of your computer and the cgroups monitored by vjoule service
 
 [See **full documentation**](https://davidson-consulting.github.io/vjoule/v1.0/)
+
+*Works on **Linux** on PC/servers (x86/64)*
+
+### [ETSdiff](https://github.com/davidson-consulting/ETSdiff)
+
+An experimental tools that aims at the **differential analysis** of solutions producing an identical result within the framework of a **complete chain** of web applications.
+
+To cover the whole chain and spots transfer impacts, ETSdiff uses 3 distinct indicators: Energy, Transfer and Storage. 
+
+To insure good installation and understand how it work use this 2 projects:
+- [ETSdiff-Test-Snippets](https://github.com/davidson-consulting/ETSdiff-Test-Snippets)
+- [OpenDataBDD](https://github.com/davidson-consulting/OpenDataBDD)
 
 *Works on **Linux** on PC/servers (x86/64)*
 
