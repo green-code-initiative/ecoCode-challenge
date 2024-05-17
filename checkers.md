@@ -27,7 +27,27 @@ To insure good installation and understand how it work use this 2 projects:
 
 *Works on **Linux** on PC/servers (x86/64)*
 
-## Fruggr by digital4better
+## Fruggr by Digital4better
+
+[Fruggr](https://www.fruggr.io), developed by [Digital4better](https://digital4better.com), is a SaaS platform that enables companies to drive their sustainable digital transition.
+It assesses the environmental and social impact of their overall IT ecosystem in a simple and automated way, providing recommendations for improvement.
+
+### Features
+
+With Fruggr, you benefit from a comprehensive evaluation at all levels of your digital ecosystem.
+From assessing sustainable digital maturity to analyzing the impact on your IT infrastructure, Fruggr examines all digital aspects in a simple and automated manner:
+
+- Dynamic analysis of the environmental and social impact of your digital applications
+- Evaluation of the accessibility of your websites and web applications
+- GHG assessment of your IT infrastructure and compliance audits
+- Measurement of the impact of your infrastructure through GreenOps analysis
+- Evaluation of your sustainable digital maturity and support in your transition roadmap
+- Analysis of your digital workplace footprint
+
+### Requirements
+
+By default, Fruggr doesn't require many elements to operate.
+For example, it may need access to your digital services or analytics accounts, cloud billing, and digital workplace billing.
 
 ## [Scaphandre](https://github.com/hubblo-org/scaphandre/) by [Hubblo](https://hubblo.org/fr/)
 
