@@ -4,7 +4,7 @@
 
 :headphones: Bring your accessories too: Earphones, headphones, power supply (computer and mobile), vga/hdmi adapter
 
-:fire: Try to start one of several existing repositories in your local environment that you will bring to the Challenge. To check if everything works as expected please follow the ["Local development" procedure](https://github.com/green-code-initiative/ecoCode-common/blob/main/doc/INSTALL.md#howto-install-sonarqube-dev-environment)
+:fire: Try to start one of several existing repositories in your local environment that you will bring to the Challenge. To check if everything works as expected please follow the ["Initialize local development" procedure](https://github.com/green-code-initiative/ecoCode-common/blob/main/doc/starter-pack.md#initialize-local-development)
 
 :grey_question: If you have problems installing and preparing your environment, please create a github issue on `ecoCode-common` or in the language repository having the problem.
 
