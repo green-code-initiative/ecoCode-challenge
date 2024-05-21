@@ -14,7 +14,7 @@ Here are the things you need to succeed in this challenge:
 
 ### Does my rule already exist in ecoCode?
 
-For Android and iOS rules, here are the rules laready found: [best praticices mobile](https://github.com/cnumr/best-practices-mobile)
+For Android and iOS rules, here are the rules laready found: [best pratices mobile](https://github.com/cnumr/best-practices-mobile)
 
 For other plugin rules, there is not a centralized place where all the implemented or in progress rules are listed. To check if your
 rule already exists or was already proposed, please check the following sources:
