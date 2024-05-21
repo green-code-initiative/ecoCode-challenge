@@ -12,7 +12,7 @@ Here are the things you need to succeed in this challenge:
 
 ## 📜 Identify new ecodesign rules
 
-### 😟 Does my rule already exist in ecoCode?
+### Does my rule already exist in ecoCode?
 
 For Android and iOS rules, here are the rules laready found: [best praticices mobile](https://github.com/cnumr/best-practices-mobile)
 
