@@ -57,3 +57,13 @@ Your rule is ready and you want to submit it? Connect to the [Green Code Initiat
 ![Screen Fill template](/assets/images/spotter_enter_issue3.png)
 
 And that's it!
+
+## Questions?
+
+If you have any questions, ask a coach or use the challenge Slack:
+
+- [ecoCode public Slack](https://ecocode-workspace.slack.com/)
+  - Main channel: `challenge24-general`
+  - Spotters channel: `challenge24-spotters`
+
+If you want a channel for your team, ask for it on `challenge24-spotters`.
