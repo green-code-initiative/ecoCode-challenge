@@ -91,3 +91,13 @@ For example, it may need access to your digital services or analytics accounts, 
 - [PowerJoular](https://github.com/joular/powerjoular): monitors the power consumption for a process (PID) or an application (multi-pid). Works on **Linux** on PC/servers (x86/64) and ARM SBC (Raspberry Pi, TinkerBoard).
 - [JoularJX](https://github.com/joular/joularjx): monitors the power consumption for each method and each execution branch in a Java application (in real time). Works on **Windows** (x86/64), **macOS** (Intel and Apple M chips), and **Linux** (PC/servers x86/64 and ARM SBC like Raspberry Pi).
 - [PowDroid](https://github.com/joular/powdroid): monitors the power consumption of **Android** smartphones (system-wide). Works on any Android smartphone. Requires a USB cable and a computer to run the analysis (**Windows**, **macOS** or **Linux**).
+
+##❓Questions?
+
+If you have any questions, coaches are here to help you or use the dedicated channel on Slack:
+
+- [ecoCode public Slack]([https://ecocode-workspace.slack.com/](https://join.slack.com/t/ecocode-workspace/shared_invite/zt-1soofawn4-Jos03e03VEQPWrw6yhgz7g))
+  - Main channel: `challenge24-general`
+  - Checkers channel: `challenge24-checkers`
+
+You can also create private discussions with all members of your team using the direct messages Slack feature.
