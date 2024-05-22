@@ -25,6 +25,7 @@ Code quality is very important in this complex project. Each plugin works differ
 
 For some languages, there are specific contribution guidelines. Follow the guides for the languages you are interested in below:
 
+- Web: [C#](https://github.com/green-code-initiative/ecoCode-csharp/blob/main/README.md)
 - Web: [JavaScript](https://github.com/green-code-initiative/ecoCode-javascript/blob/main/CONTRIBUTING.md)
 - Mobile: [Android (Java)](https://github.com/green-code-initiative/ecoCode-android/blob/main/CONTRIBUTING.md) • [iOS (Swift)](https://github.com/green-code-initiative/ecoCode-ios/blob/main/CONTRIBUTING.md)
 
