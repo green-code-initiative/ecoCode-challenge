@@ -92,7 +92,7 @@ For example, it may need access to your digital services or analytics accounts, 
 - [JoularJX](https://github.com/joular/joularjx): monitors the power consumption for each method and each execution branch in a Java application (in real time). Works on **Windows** (x86/64), **macOS** (Intel and Apple M chips), and **Linux** (PC/servers x86/64 and ARM SBC like Raspberry Pi).
 - [PowDroid](https://github.com/joular/powdroid): monitors the power consumption of **Android** smartphones (system-wide). Works on any Android smartphone. Requires a USB cable and a computer to run the analysis (**Windows**, **macOS** or **Linux**).
 
-##❓Questions?
+### ❓ Questions ❓
 
 If you have any questions, coaches are here to help you or use the dedicated channel on Slack:
 
