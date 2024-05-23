@@ -62,8 +62,8 @@ And that's it!
 
 If you have any questions, ask a coach or use the challenge Slack:
 
-- [ecoCode public Slack](https://ecocode-workspace.slack.com/)
+- [ecoCode public Slack]([https://ecocode-workspace.slack.com/](https://join.slack.com/t/ecocode-workspace/shared_invite/zt-1soofawn4-Jos03e03VEQPWrw6yhgz7g))
   - Main channel: `challenge24-general`
   - Spotters channel: `challenge24-spotters`
 
-If you want a channel for your team, ask for it on `challenge24-spotters`.
+You can also create private discussions with all members of your team using the direct messages Slack feature.
