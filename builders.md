@@ -43,3 +43,13 @@ For some languages, there are specific contribution guidelines. Follow the guide
 - Mobile: [Android (Java)](https://github.com/green-code-initiative/ecoCode-android/blob/main/CONTRIBUTING.md) • [iOS (Swift)](https://github.com/green-code-initiative/ecoCode-ios/blob/main/CONTRIBUTING.md)
 
 It's time for development, good luck builder! ⚒️
+
+### ❓ Questions ❓
+
+If you have any questions, coaches are here to help you or use the dedicated channel on Slack:
+
+- [ecoCode public Slack]([https://ecocode-workspace.slack.com/](https://join.slack.com/t/ecocode-workspace/shared_invite/zt-1soofawn4-Jos03e03VEQPWrw6yhgz7g))
+  - Main channel: `challenge24-general`
+  - Builders channel: `challenge24-builders`
+
+You can also create private discussions with all members of your team using the direct messages Slack feature.
