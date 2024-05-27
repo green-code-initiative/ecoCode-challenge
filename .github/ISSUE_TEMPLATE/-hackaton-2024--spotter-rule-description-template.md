@@ -1,8 +1,8 @@
 ---
-name: "[Hackaton 2024] Spotter rule description template"
+name: "[Hackathon 2024] Spotter rule description template"
 about: 'Spotters: use this template to describe your new rule.'
-title: "[Hackaton 2024][Your team here][The platform here] Your rule title here"
-labels: Hackaton 2024, spotter
+title: "[Hackathon 2024][Your team here][The platform here] Your rule title here"
+labels: Hackathon 2024, spotter
 assignees: jhertout
 
 ---
