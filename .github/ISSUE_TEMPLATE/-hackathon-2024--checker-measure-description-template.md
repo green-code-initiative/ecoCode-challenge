@@ -1,5 +1,5 @@
 ---
-name: "[Hackaton 2024] Checkers measure description template"
+name: "[Hackathon 2024] Checkers measure description template"
 about: 'Checkers: use this template to describe your new measure to associate with a rule.'
 title: "[Hackaton 2024][Your team here][The platform here] The associated rule title here"
 labels: Hackathon 2024, checkers
