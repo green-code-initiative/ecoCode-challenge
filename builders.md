@@ -25,7 +25,7 @@ Here are the files containing the up to date list of rules to implement accordin
 - [iOS (Swift) rules](https://github.com/green-code-initiative/ecoCode-ios/blob/main/RULES.md)
 
 Second way to find new rules to implement :
-- go to "issue" tab of the wanted language plugin (ex for "java " plugin : [ecoCode-ajav/issues](https://github.com/green-code-initiative/ecoCode-java/issues))
+- go to "issue" tab of the wanted language plugin (ex for "java " plugin : [ecoCode-java/issues](https://github.com/green-code-initiative/ecoCode-java/issues))
 - get one issue with `rule-idea` tag
 - check content and think how to implement this one
 
@@ -48,7 +48,7 @@ It's time for development, good luck builder! ⚒️
 
 If you have any questions, coaches are here to help you or use the dedicated channel on Slack:
 
-- [ecoCode public Slack]([https://ecocode-workspace.slack.com/](https://join.slack.com/t/ecocode-workspace/shared_invite/zt-1soofawn4-Jos03e03VEQPWrw6yhgz7g))
+- [ecoCode public Slack](https://ecocode-workspace.slack.com/) - [Join](https://join.slack.com/t/ecocode-workspace/shared_invite/zt-1soofawn4-Jos03e03VEQPWrw6yhgz7g)
   - Main channel: `challenge24-general`
   - Builders channel: `challenge24-builders`
 
